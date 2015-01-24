@@ -6,4 +6,6 @@ comments: true
 categories: 創業
 ---
 
+{% img center /images/dealmaker-media-losangeles-2048580-h.jpg %}
+
 用這個部落格做為創業的心得到整理和成長分享
